@@ -1,1 +1,1 @@
-# tweetbot-mute-filters
+# Tweetbot Mute Filters
