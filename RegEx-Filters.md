@@ -1,5 +1,5 @@
 ### Blogs
-* `(?i)(anxiousmachine|chambersdaily|danielmiessler|david-smith|cgpgrey|macsparky|oleb|patricklenz|sixcolors)\.[a-z]{2,3}\/(blog|bradleychamber|links|posts?)` — I already follow these blogs via RSS, so I don't want to see their duplicate Twitter posts.
+* `(?i)(anxiousmachine|chambersdaily|david-smith|cgpgrey|macsparky|oleb|patricklenz|sixcolors)\.[a-z]{2,3}\/(blog|bradleychamber|links|posts?)` — I already follow these blogs via RSS, so I don't want to see their duplicate Twitter posts.
 
 * `(?i)(betalogue|bitsplitting|brettterpstra|brooksreview|candlerblog|carpeaqua|caseyliss|cormachogan|danfrakes|daringfireball|developingperspective|theexecutionersbong\.wordpress|furbo|gedblog|hypertext|kottke|macdrifter|neglectedpotential|rocketink|rustyshelf|shawnblanc|thesynopsis|yellow-bricks)\.[a-z]{2,3}\/[0-9]{2,4}\/[0-9]{1,2}` — I already follow these blogs via RSS, so I don't want to see their duplicate Twitter posts.
 
