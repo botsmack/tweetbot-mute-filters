@@ -1,7 +1,7 @@
 ### Blogs
 * `(?i)(512pixels|anxiousmachine|chambersdaily|david-smith|cgpgrey|macsparky|mjtsai|oleb|patricklenz|sixcolors)\.[a-z]{2,3}\/(blog|bradleychamber|links|posts?)` — I already follow these blogs via RSS, so I don't want to see their duplicate Twitter posts.
 
-* `(?i)(betalogue|bitsplitting|brettterpstra|candlerblog|carpeaqua|caseyliss|cormachogan|danfrakes|daringfireball|derflounder\.wordpress|derekseaman|developingperspective|theexecutionersbong\.wordpress|furbo|gedblog|hypertext|inessential|kottke|macdrifter|neglectedpotential|rantbox|rocketink|rustyshelf|shawnblanc|thesynopsis|yellow-bricks)\.[a-z]{2,3}\/[0-9]{2,4}\/[0-9]{1,2}` — I already follow these blogs via RSS, so I don't want to see their duplicate Twitter posts.
+* `(?i)(betalogue|bitsplitting|brettterpstra|candlerblog|carpeaqua|caseyliss|cormachogan|danfrakes|daringfireball|derflounder\.wordpress|derekseaman|developingperspective|theexecutionersbong\.wordpress|furbo|gedblog|hypertext|inessential|kottke|macdrifter|macmule|neglectedpotential|rantbox|rocketink|rustyshelf|shawnblanc|thesynopsis|yellow-bricks)\.[a-z]{2,3}\/[0-9]{2,4}\/[0-9]{1,2}` — I already follow these blogs via RSS, so I don't want to see their duplicate Twitter posts.
 
 * `(?i)verynicewebsite\.net\/[0-9]{4}\/[0-9]{2}\/` — I'm already an RSS subscriber.
 
