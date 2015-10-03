@@ -18,7 +18,7 @@
 
 * `(?i)^\@WhatTheBit.+`
 
-* `(@\w+(.+)?){5,}`
+* `(@\w+(.+)?){6,}` — Tweets with more than n recipients.
 
 * `(MLB)|Dodgers|Giants|RedSox|Yankees` — Not a fan of baseball.
 
