@@ -26,9 +26,9 @@
 
 * `#\w{20,}` — Posts that contain long hashtags.
 
-* `^(@\w+ *)*(#\w+ *)+$`
+* `^(@\w+ *)*(#\w+ *)+$` — Tweet replies with only a hashtag reply.
 
-* `^(@\w+\s*)+$`
+* `^(@\w+\s*)+$` — Tweets with only @ mentions.
 
 * `^\#MacStoriesDeals.*` — I already subscribe to their dedicated deals feed. Once again too much noise.
 
