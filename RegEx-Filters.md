@@ -1,9 +1,7 @@
 ### Blogs
-* `(?i)(512pixels|anxiousmachine|chambersdaily|david-smith|cgpgrey|macsparky|mjtsai|oleb|patricklenz|sixcolors)\.[a-z]{2,3}\/(blog|bradleychamber|links|posts?)` — I already follow these blogs via RSS, so I don't want to see their duplicate Twitter posts.
+* `(?i)(512pixels|anxiousmachine|chambersdaily|david-smith|cgpgrey|macsparky|mjtsai|oleb|patricklenz|samanthabielefeld|sixcolors)\.[a-z]{2,3}\/(blog|bradleychamber|journal|links|posts?)` — I already follow these blogs via RSS, so I don't want to see their duplicate Twitter posts.
 
-* `(?i)(betalogue|bitsplitting|brettterpstra|candlerblog|carpeaqua|caseyliss|cormachogan|danfrakes|daringfireball|derflounder\.wordpress|derekseaman|developingperspective|theexecutionersbong\.wordpress|furbo|gedblog|hypertext|inessential|kottke|macdrifter|macmule|neglectedpotential|rantbox|rocketink|rustyshelf|shawnblanc|thesynopsis|yellow-bricks)\.[a-z]{2,3}\/[0-9]{2,4}\/[0-9]{1,2}` — I already follow these blogs via RSS, so I don't want to see their duplicate Twitter posts.
-
-* `(?i)verynicewebsite\.net\/[0-9]{4}\/[0-9]{2}\/` — I'm already an RSS subscriber.
+* `(?i)(betalogue|bitsplitting|brettterpstra|candlerblog|carpeaqua|caseyliss|cormachogan|danfrakes|daringfireball|derflounder\.wordpress|derekseaman|developingperspective|theexecutionersbong\.wordpress|furbo|gedblog|hypertext|inessential|kottke|macdrifter|macmule|modtitan|neglectedpotential|rantbox|rocketink|rustyshelf|shawnblanc|thesynopsis|verynicewebsite|yellow-bricks)\.[a-z]{2,3}\/[0-9]{2,4}\/[0-9]{1,2}` — I already follow these blogs via RSS, so I don't want to see their duplicate Twitter posts.
 
 ### Annoyances
 * `(?i)(happy|geek) birthday` — I don't care if it's your birthday. Well, I do, but I just don't need to see all the replies.
@@ -23,6 +21,8 @@
 * `(MLB)|Dodgers|Giants|RedSox|Yankees` — Not a fan of baseball.
 
 * `\n{5,}` — Posts with 5+ new lines.
+
+* `(#.*?){6,}` — Posts with 6+ hastags.
 
 * `#\w{20,}` — Posts that contain long hashtags.
 
